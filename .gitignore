@@ -1,0 +1,18 @@
+# Banco de Dados
+*.db
+/migrations/
+/instance
+
+# Configuração local
+.env
+config.json
+
+# Arquivos temporários
+*.log
+*.pyc
+__pycache__/
+.DS_Store
+
+# Dependências
+venv/
+node_modules/
